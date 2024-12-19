@@ -136,3 +136,7 @@ streamlit run app.py
 - Streamlit: For enabling rapid development of interactive web apps.
 
 - Pillow & NumPy: For image preprocessing and numerical computations.
+
+
+
+check out the app at https://huggingface.co/spaces/abhinavyadav11/Blood_Detection
