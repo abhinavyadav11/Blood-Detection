@@ -11,4 +11,4 @@ license: apache-2.0
 short_description: 'Detect the component of the blood(Eg: RBC, WBC, Platelets'
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Check out the  reference at https://huggingface.co/spaces/abhinavyadav11/Blood_Detection
