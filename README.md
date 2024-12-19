@@ -65,19 +65,27 @@ The Blood Component Detection project aims to classify and localize different bl
 
 #### - Clone the Repository:
 
-
+```bash
 git clone https://github.com/username/BloodCellsDetection.git
 cd BloodCellsDetection
+```
+
 
 
 #### - Create a Virtual Environment:
 
+```bash
 python3 -m venv .venv
 source .venv/bin/activate 
+```
+
 
 #### - Install Dependencies:
 
+```bash
 pip install -r requirements.txt
+```
+
 
 #### - Download the YOLO Model:
 Place the fine-tuned YOLO weights (blood_detection_model.pt) in the project directory. Update the path in the code if necessary.
